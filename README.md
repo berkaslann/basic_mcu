@@ -6,4 +6,4 @@ A basic 8-bit microcontroller project implemented for the term project of VLSI D
   *  Data Memory (2x8 bits)
   *  8x8 Output Memory
 
-Inıtial and final project reports can be found in this repository. All the building blocks and their design choices are explained in detail. Conceptual design drawings and images of schematics, layout(only some parts are drawn), test results are given.. Since the design was made in the laboratory computers, design files are not available. 
+Inıtial and final project reports can be found in this repository. All the building blocks and their design choices are explained in detail. Conceptual design drawings and images of schematics, layout(only some parts are drawn), test results are given. Since the design was made in the laboratory computers, design files are not available. 
